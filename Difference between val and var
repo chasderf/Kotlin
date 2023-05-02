@@ -1,0 +1,14 @@
+When you create a variable with the val keyword, the value cannot be changed/reassigned.
+
+The following example will generate an error:
+
+When using var, you can change the value whenever you want:
+
+
+The val keyword is useful when you want a variable to always store the same value, like PI (3.14159...):
+
+Example
+val pi = 3.14159265359
+println(pi)
+--------------------------
+3.14159265359
