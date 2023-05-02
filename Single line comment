@@ -1,0 +1,5 @@
+// means they are in comment form
+
+fun main() {
+  println("Hello World") // This is a comment
+}
