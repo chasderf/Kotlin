@@ -1,0 +1,16 @@
+fun main() {
+  var name: String
+  name = "John"
+  println(name)
+}
+-------------------------------
+John
+
+#Error'
+//fun main() {
+  var name
+  name = "John"
+  println(name)
+} //
+-------------------
+#error
